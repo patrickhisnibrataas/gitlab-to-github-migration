@@ -1,0 +1,10 @@
+[gitlab]
+token = s86dg68randomtokensg4b68s4bsdf
+user = johndoe
+email = john@doe.com
+
+[github]
+token = re84e68brandomtokenh486er6gb4g
+user = johndoe
+email = john@doe.com
+name = John Doe
